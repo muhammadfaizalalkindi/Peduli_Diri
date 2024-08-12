@@ -1,0 +1,3 @@
+
+12345|Faizal|2022-02-22|19:15|Lampung Tengah|32.5 Celcius
+12345|Faizal|2022-02-21|19:15|Bandar Jaya|34.9 Celcius

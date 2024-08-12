@@ -1,0 +1,4 @@
+NIK|NAMA LENGKAP
+12345|Faizal
+54321|Kindi
+31084|Ainun
